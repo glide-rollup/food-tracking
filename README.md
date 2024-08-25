@@ -1,0 +1,5 @@
+## Contract Deployed
+
+ProductManagement deployed to: 0xe0E0540AD62c90Dbb76d4BcC54E837c2002Bc728
+MemberManagement deployed to: 0x9de70cf96f2396FEef3A9F23Dc15fB17d10F5393
+LogisticsManagement deployed to: 0x622aF8483aE327Ad74076d9669fc06d00b2b3139
